@@ -4,11 +4,15 @@ Data quality dimentions to apply on the data
 
 Tutorial and examples of Data Quality metrics on R and Python.
 
-**Data Quality metrics:
+# Data Quality metrics:
 
-   *Completeness
+   *Completeness 
+   
    *Inconsistency
-   *Constrains Violation 
+   
+   *Constrains Violation
+   
    *Format consistency
+   
    *Variables with implausible and missing values.
 
