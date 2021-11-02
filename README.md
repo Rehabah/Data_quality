@@ -1,4 +1,4 @@
-# Data_quality
+# Data Quality
 
 Data quality dimentions to apply on the data
 
